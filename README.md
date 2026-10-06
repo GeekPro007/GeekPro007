@@ -15,7 +15,6 @@ I'm a SOC analyst and cybersecurity and networking instructor with hands-on expe
 
 - Building cloud infrastructure with Terraform
 - Learning CI/CD, Docker, and Kubernetes
-- Bringing security into DevOps pipelines (DevSecOps)
 
 ## Featured Project
 
